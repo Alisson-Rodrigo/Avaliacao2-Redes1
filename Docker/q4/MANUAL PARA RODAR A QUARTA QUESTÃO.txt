@@ -1,0 +1,11 @@
+"MANUAL PARA RODAR A QUARTA QUESTÃO"
+
+1 PASSO
+ABRA O TERMINAL DO GIT BASH (Ou utilize o terminal do seu PC, contanto que execute o arquivo sh)
+
+2 PASSO
+Execute o arquivo sh:
+ bash q4_command.sh
+
+---------------------------
+PRONTO, A REDE SERÁ CRIADO COM SUAS DEVIDAS CONFIGURAÇÕES.
